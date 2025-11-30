@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import "tailwindcss";
+@theme {
+    --color-primary: #000000;
+    --color-body: #f7f5f2;
+    --font-inconsolata: "Inconsolata", monospace;
+}
+body{
+    font-family:  "Inconsolata", monospace;
+}
